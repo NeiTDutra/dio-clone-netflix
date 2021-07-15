@@ -6,7 +6,7 @@ Projeto desenvolvido no bootcamp MRV Frot End SPA Developer - Digital Innovation
 
 ***"Recriando a Interface do Netflix"***
 
-Online neste link :point_right: [OLDFLIX]()
+Online neste link :point_right: [OLDFLIX](https://neitdutra.github.io/dio-clone-netflix/)
 
 Projeto original bifurcado de [felipeAguiarCode /
 netflix-clone](https://github.com/felipeAguiarCode/netflix-clone)
