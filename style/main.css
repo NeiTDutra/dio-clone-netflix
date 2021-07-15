@@ -22,13 +22,14 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    padding: 8px 0 8px 0;
     
 }
 
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: 'Arial Black', Times;
+    font-family: 'Arial', Times;
     font-size:40px;
 }
 
@@ -46,7 +47,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('https://i.ytimg.com/vi/VAhOjJADsh4/maxresdefault.jpg');
 
     height:400px;
     background-size:cover;
@@ -107,11 +108,38 @@ header nav a:hover{
     width: 100%;
     display: block;
     cursor: pointer;
+    padding: 20px;
 }
 
+.title-carrocel {
+    padding: 15px;
+    margin-left: 30px;
+}
 
-.carrosel-filmes{
-    margin-top:5px;
+.filme-player {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1%;
+
+}
+
+.player {
+    width: 100%;
+
+}
+
+.info-play {
+    width: 40%;
+    align-items: center;
+}
+
+.info-play h3 {
+    margin: 15% 0 15% 0;
+}
+
+.filme-player img {
+    width: 70%;
+    margin-left: 15%;
 }
 
 

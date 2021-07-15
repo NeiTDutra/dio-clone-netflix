@@ -6,6 +6,8 @@ Projeto desenvolvido no bootcamp MRV Frot End SPA Developer - Digital Innovation
 
 ***"Recriando a Interface do Netflix"***
 
+Online neste link :point_right: [OLDFLIX]()
+
 Projeto original bifurcado de [felipeAguiarCode /
 netflix-clone](https://github.com/felipeAguiarCode/netflix-clone)
 
@@ -15,4 +17,13 @@ netflix-clone](https://github.com/felipeAguiarCode/netflix-clone)
 - CSS
 - Javascript
 
-:construction: ...Em desenvolvimento... :construction:
+## Alterações +
+
+:construction:
+
+- Mudança no tema do site para OLDFLIX
+  - Séries e filmes antigos
+- Adição de duas páginas linkadas da imagem principal
+  - Player e informações
+- Adição de duas categorias linkadas do menu
+  - Filmes e séries
